@@ -17,6 +17,7 @@ Usage
 * Set up your Shopify storefront.
 * Create customers.
 * Generate Shopify API credentials.
-* Populate config.js with Shopify credential, SMSified credentials, and CouchDB details.
+* Create a CouchDB database to store delivery inforamtion.
+* Populate config.js with Shopify credentials, SMSified credentials, and CouchDB details.
 
 Note, your CouchDB instance may be local or hosted.
